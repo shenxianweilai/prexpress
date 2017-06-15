@@ -1,0 +1,19 @@
+{
+  "name": "prexpress",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pxx",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express3-handlebars": "^0.5.2",
+    "handlebars": "^4.0.10",
+    "mongoose": "^4.10.6",
+    "pug": "^2.0.0-rc.2"
+  }
+}
